@@ -1,3 +1,5 @@
 paths.yml
 .ipynb_checkpoints/variables-checkpoint.ipynb
 .ipynb_checkpoints/citation-checkpoint.ipynb
+.ipynb_checkpoints/*
+plots/.ipynb_checkpoints/*
