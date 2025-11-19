@@ -7,6 +7,7 @@ CVs data is a copy from https://github.com/PCMDI/cmip6-cmor-tables/tree/main/Tab
 ESGF data was downloaded from https://esgf-ui.cmcc.it/esgf-dashboard-ui/cmip6.html 
 C3S data was provided by Chris Goddard.
 Initial CMIP6_Data_References.csv comes from https://www.wdc-climate.de/ords/f?p=127:2. It was then modified to include the number of citation found through DataCite.
+country level population data is from the World Bank - https://data.worldbank.org/indicator/SP.POP.TOTL
 
 ## Instructions
 
