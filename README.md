@@ -21,5 +21,3 @@ country level population data is from the World Bank - https://data.worldbank.or
 
 3. Run report-figures.ipynb
 
-
-TODO: archive old scripts and maybe the figures.
