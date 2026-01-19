@@ -202,3 +202,9 @@ dependencies:
   - zlib-ng=2.2.5=hde8ca8f_0
   - zstandard=0.25.0=py314h0f05182_1
   - zstd=1.5.7=hb8e6e7a_2
+  - pip:
+      - attrs==25.4.0
+      - cdsapi==0.7.7
+      - ecmwf-datastores-client==0.4.1
+      - multiurl==0.3.7
+      - tqdm==4.67.1

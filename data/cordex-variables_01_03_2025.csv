@@ -1,0 +1,548 @@
+variable_code,variable_long_name,time_frequency,total_size_GB,number_of_downloads
+pr,Precipitation,day,290493.23,993380
+tasmax,Daily Maximum Near-Surface Air Temperature,day,186388.52,743201
+tas,Near-Surface Air Temperature,day,182578.28,646562
+pr,Precipitation,1hr,180812.02,79064
+tasmin,Daily Minimum Near-Surface Air Temperature,day,171493.44,643415
+sfcWind,Near-Surface Wind Speed,3hr,117971.56,131793
+sfcWind,Near-Surface Wind Speed,day,109265.08,293329
+tas,Near-Surface Air Temperature,3hr,101696.05,168338
+rsds,Surface Downwelling Shortwave Radiation,day,99954.97,229071
+hurs,Near-Surface Relative Humidity,day,90838.87,239206
+hurs,Near-Surface Relative Humidity,3hr,89963.80,92116
+pr,Precipitation,3hr,77248.90,132138
+sfcWindmax,Daily Maximum Near-Surface Wind Speed,day,76444.07,167730
+huss,Near-Surface Specific Humidity,day,71706.15,196169
+huss,Near-Surface Specific Humidity,3hr,63438.56,63508
+uas,Eastward Near-Surface Wind,day,58106.75,110639
+vas,Northward Near-Surface Wind,day,57027.79,108128
+rsds,Surface Downwelling Shortwave Radiation,3hr,51321.95,95305
+ps,Surface Air Pressure,3hr,50146.07,65435
+evspsbl,Evaporation,day,45702.31,117510
+ps,Surface Air Pressure,day,43524.45,130249
+psl,Sea Level Pressure,3hr,42791.26,70765
+rlds,Surface Downwelling Longwave Radiation,3hr,38868.37,47469
+tas,Near-Surface Air Temperature,1hr,37654.66,14101
+wsgsmax,Daily Maximum Near-Surface Wind Speed of Gust,day,37075.45,88837
+rlds,Surface Downwelling Longwave Radiation,day,37017.66,88902
+clt,Total Cloud Fraction,3hr,35139.16,47275
+uas,Eastward Near-Surface Wind,6hr,34883.27,69583
+vas,Northward Near-Surface Wind,6hr,33013.05,64736
+psl,Sea Level Pressure,day,31499.16,93068
+va100m,Northward wind at 100 m,1hr,28373.36,5452
+clt,Total Cloud Fraction,day,22659.17,63114
+sfcWind,Near-Surface Wind Speed,1hr,22293.49,5577
+ua100m,Eastward wind at 100 m,1hr,22289.92,4273
+hurs,Near-Surface Relative Humidity,1hr,17340.21,4567
+va850,Northward Wind,6hr,17256.95,30620
+mrso,Total Soil Moisture Content,day,17243.48,67448
+ua850,Eastward Wind,6hr,16941.28,30496
+uas,Eastward Near-Surface Wind,3hr,16406.51,12777
+vas,Northward Near-Surface Wind,3hr,16280.67,12449
+rsus,Surface Upwelling Shortwave Radiation,day,15900.15,31152
+hfls,Surface Upward Latent Heat Flux,day,15135.73,31885
+zg500,Geopotential Height,day,14699.36,36502
+rsus,Surface Upwelling Shortwave Radiation,3hr,12833.85,26723
+prsn,Snowfall Flux,day,12081.08,59195
+hus850,Specific Humidity,6hr,11993.75,24017
+ua850,Eastward Wind,day,11877.97,24063
+ta850,Air Temperature,6hr,11742.45,33003
+ua200,Eastward Wind,6hr,11371.83,23205
+va850,Northward Wind,day,11182.72,24715
+va200,Northward Wind,6hr,11061.34,19490
+va500,Northward Wind,6hr,10819.67,19755
+ps,Surface Air Pressure,1hr,10724.81,3633
+zg500,Geopotential Height,6hr,10570.50,30841
+ua500,Eastward Wind,6hr,10471.12,19768
+ts,Surface Temperature,day,10471.04,36584
+ta200,Air Temperature,6hr,10388.37,25413
+hfss,Surface Upward Sensible Heat Flux,day,9978.45,21296
+huss,Near-Surface Specific Humidity,1hr,9855.21,2654
+va500,Northward Wind,day,9428.43,17620
+rlus,Surface Upwelling Longwave Radiation,day,9358.32,23291
+mrro,Total Runoff,day,9142.67,37712
+snw,Surface Snow Amount,day,9114.04,49106
+rsds,Surface Downwelling Shortwave Radiation,1hr,8992.25,4159
+ta850,Air Temperature,day,8782.87,23932
+clt,Total Cloud Fraction,1hr,8633.34,3440
+ua500,Eastward Wind,day,8626.05,16338
+hus850,Specific Humidity,day,8568.22,21091
+ta500,Air Temperature,6hr,7905.95,21856
+hfss,Surface Upward Sensible Heat Flux,3hr,6936.02,7664
+prhmax,Daily Maximum Hourly Precipitation Rate,day,6281.72,21468
+hfls,Surface Upward Latent Heat Flux,3hr,6111.87,6474
+ua100m,Eastward wind,1hr,5828.08,1195
+va100m,Northward wind,1hr,5539.70,1190
+pr,Precipitation,mon,5402.00,220678
+prw,Water Vapor Path,6hr,5287.00,62053
+rlds,Surface Downwelling Longwave Radiation,1hr,5203.21,1432
+evspsbl,Evaporation,3hr,4806.15,4129
+prc,Convective Precipitation,day,4535.46,20990
+ta500,Air Temperature,day,4497.63,14362
+rsdt,TOA Incident Shortwave Radiation,day,4458.53,30408
+tasmax,Daily Maximum Near-Surface Air Temperature,mon,4339.50,352590
+evspsblpot,Potential Evapotranspiration,day,4292.49,44098
+cape,Convective available potential energy (CAPE),3hr,4248.15,3587
+sund,Duration of Sunshine,day,4224.84,23880
+prw,Water Vapor Path,day,4147.67,12550
+evspsbl,Evaporation,6hr,3804.95,8912
+zg500,Geopotential Height,3hr,3719.06,3238
+rlut,TOA Outgoing Longwave Radiation,day,3696.01,9503
+mrros,Surface Runoff,day,3620.32,17414
+zg200,Geopotential Height,6hr,3449.15,9646
+tas,Near-Surface Air Temperature,mon,3373.57,173686
+ta200,Air Temperature,day,3370.96,11043
+va200,Northward Wind,day,3153.28,8140
+ua200,Eastward Wind,day,3041.17,7626
+ta700,Air Temperature,6hr,2909.45,6784
+hus700,Specific Humidity,6hr,2877.18,5659
+ts,Surface Temperature,6hr,2860.30,5821
+zg850,Geopotential Height,6hr,2829.89,6209
+mrso,Total Soil Moisture Content,6hr,2807.72,10503
+rlus,Surface Upwelling Longwave Radiation,3hr,2738.11,5631
+rsut,TOA Outgoing Shortwave Radiation,day,2655.30,5351
+mrro,Total Runoff,6hr,2636.97,8064
+va700,Northward Wind,6hr,2565.79,3435
+ua700,Eastward Wind,6hr,2528.01,3449
+snd,Snow Depth,day,2503.19,38182
+rlut,TOA Outgoing Longwave Radiation,6hr,2461.31,5796
+hus500,Specific Humidity,6hr,2400.81,4353
+zmla,Height of Boundary Layer,day,2354.35,6716
+ts,Surface Temperature,3hr,2289.09,1805
+prsn,Snowfall Flux,3hr,2241.87,7518
+prc,Convective Precipitation,3hr,2143.36,4761
+va925,Northward Wind,6hr,2073.37,3310
+ua925,Eastward Wind,6hr,2046.27,3307
+ua200m,Eastward Wind,3hr,2005.07,1158
+va150m,Northward wind,3hr,1995.03,1162
+ua150m,Eastward Wind,3hr,1989.30,1180
+va200m,Northward wind,3hr,1988.12,1173
+snc,Snow Area Fraction,day,1925.21,21726
+uas,Eastward Near-Surface Wind,1hr,1796.75,298
+vas,Northward Near-Surface Wind,1hr,1738.55,287
+zg700,Geopotential Height,6hr,1714.37,3119
+tasmin,Daily Minimum Near-Surface Air Temperature,mon,1585.80,80913
+rsds,Surface Downwelling Shortwave Radiation,mon,1584.24,52547
+clwvi,Condensed Water Path,day,1453.85,5068
+tauv,Surface Downward Northward Wind Stress,day,1427.80,2794
+tauu,Surface Downward Eastward Wind Stress,day,1415.25,2725
+zg200,Geopotential Height,day,1402.53,5938
+va300,Northward Wind,6hr,1400.67,2990
+ua300,Eastward Wind,6hr,1398.21,3189
+hus200,Specific Humidity,6hr,1370.93,2880
+hus925,Specific Humidity,6hr,1340.51,2706
+va100m,Northward wind,3hr,1330.63,810
+ua100m,Eastward wind,3hr,1299.78,753
+ta,Air Temperature,day,1208.38,2002
+cll,Low Level Cloud Fraction,day,1202.62,3117
+zg850,Geopotential Height,3hr,1136.63,941
+evspsbl,Evaporation,mon,1081.62,32694
+va,Northward Wind,day,1066.39,1013
+ta925,Air Temperature,6hr,1049.04,2782
+ua,Eastward Wind,day,984.23,1060
+va700,Northward Wind,3hr,981.69,528
+hus700,Specific Humidity,day,980.97,1120
+va100m,Northward wind at 100 m,3hr,967.02,545
+va100,Northward Wind,6hr,964.61,1136
+ua100m,Eastward wind at 100 m,3hr,963.82,545
+ta300,Air Temperature,6hr,955.37,2704
+ua700,Eastward Wind,3hr,940.21,516
+ua100,Eastward Wind,6hr,934.88,1153
+hus500,Specific Humidity,day,926.93,1186
+hus300,Specific Humidity,6hr,903.24,1581
+va600,Northward Wind,6hr,887.39,1526
+sfcWind,Near-Surface Wind Speed,mon,887.08,35727
+va400,Northward Wind,6hr,881.74,1528
+ta400,Air Temperature,6hr,878.03,2487
+ua600,Eastward Wind,6hr,861.46,1525
+tds,2m Dew Point Temperature,1hr,854.93,216
+ua400,Eastward Wind,6hr,851.41,1525
+ta700,Air Temperature,day,851.34,1250
+hus600,Specific Humidity,6hr,851.23,1479
+hus400,Specific Humidity,6hr,840.95,1479
+hurs,Near-Surface Relative Humidity,mon,819.24,34179
+tasmaxAdjust,Bias-Adjusted Daily Maximum Near-Surface Air Temperature,day,814.74,3516
+clivi,Ice Water Path,day,807.68,2631
+zg925,Geopotential Height,6hr,799.98,1707
+rlds,Surface Downwelling Longwave Radiation,mon,786.51,27413
+clh,High Level Cloud Fraction,day,752.85,2092
+snw,Surface Snow Amount,6hr,752.62,5670
+va700,Northward Wind,day,752.00,810
+zg200,Geopotential Height,3hr,736.95,695
+clm,Mid Level Cloud Fraction,day,735.77,1859
+evspsblpot,Potential Evapotranspiration,6hr,701.76,8366
+zg,Geopotential Height,day,701.12,1334
+va925,Northward Wind,day,693.76,685
+ua700,Eastward Wind,day,677.32,769
+tasminAdjust,Bias-Adjusted Daily Minimum Near-Surface Air Temperature,day,664.48,2650
+ta600,Air Temperature,6hr,659.95,1526
+zg850,Geopotential Height,day,648.29,996
+zg300,Geopotential Height,6hr,624.55,1534
+hus975,Specific Humidity,6hr,618.56,1900
+zg400,Geopotential Height,6hr,615.37,1496
+zg600,Geopotential Height,6hr,606.35,1479
+hus200,Specific Humidity,day,602.58,835
+ua925,Eastward Wind,day,588.04,596
+hus925,Specific Humidity,day,568.11,661
+hus100,Specific Humidity,6hr,558.49,713
+ts,Surface Temperature,1hr,552.86,113
+zg700,Geopotential Height,3hr,549.95,395
+zg700,Geopotential Height,day,541.38,780
+ta975,Air Temperature,6hr,535.32,2226
+ta100,Air Temperature,6hr,529.24,789
+prAdjust,Bias-Adjusted Precipitation,day,522.39,2898
+clt,Total Cloud Fraction,mon,518.70,16743
+huss,Near-Surface Specific Humidity,mon,506.96,22248
+hus,Specific Humidity,day,501.58,587
+cll,Low Level Cloud Fraction,6hr,491.74,602
+rsut,TOA Outgoing Shortwave Radiation,6hr,488.15,1660
+zg925,Geopotential Height,day,470.58,580
+zg100,Geopotential Height,6hr,458.20,713
+uas,Eastward Near-Surface Wind,mon,444.03,17586
+vas,Northward Near-Surface Wind,mon,436.98,17425
+psl,Sea Level Pressure,mon,432.76,23169
+va975,Northward Wind,6hr,419.99,1128
+mrso,Total Soil Moisture Content,mon,417.06,23521
+ua975,Eastward Wind,6hr,411.87,1048
+tasAdjust,Bias-Adjusted Near-Surface Air Temperature,day,410.85,4089
+ta925,Air Temperature,day,409.43,538
+sfcWindmax,Daily Maximum Near-Surface Wind Speed,mon,395.85,14859
+va850,Northward Wind,mon,392.29,12113
+rsdt,TOA Incident Shortwave Radiation,6hr,386.28,1819
+ua850,Eastward Wind,mon,377.38,11880
+va50m,Northward wind,3hr,376.20,236
+rsus,Surface Upwelling Shortwave Radiation,mon,375.90,12428
+rsdt,TOA Incident Shortwave Radiation,mon,375.38,16625
+sst,sea surface temperature,3hr,371.39,1882
+snm,Surface Snow Melt,day,367.03,8743
+va500,Northward Wind,3hr,362.49,170
+mrfso,Soil Frozen Water Content,day,350.10,2688
+ua50m,Eastward Wind,3hr,344.65,204
+prc,Convective Precipitation,1hr,320.95,672
+ua500,Eastward Wind,3hr,314.65,150
+mrro,Total Runoff,mon,306.54,16427
+va250,,6hr,302.63,916
+snd,Snow Depth,6hr,288.79,3162
+ua250,,6hr,280.19,917
+hus250,,6hr,268.60,859
+evspsbl,Evaporation,1hr,268.17,55
+va500,Northward Wind,mon,265.58,8464
+mrro,Total Runoff,3hr,264.32,748
+hfss,Surface Upward Sensible Heat Flux,mon,261.41,7950
+hfls,Surface Upward Latent Heat Flux,mon,249.13,7602
+ua500,Eastward Wind,mon,240.34,8320
+rlus,Surface Upwelling Longwave Radiation,1hr,236.30,57
+zg500,Geopotential Height,mon,232.93,12368
+hus850,Specific Humidity,mon,232.12,9947
+psl,Sea Level Pressure,6hr,229.13,1645
+ta50m,Air Temperature,3hr,226.40,197
+pr,Precipitation,sem,212.08,17419
+ta250,,6hr,208.37,919
+zg975,Geopotential Height,6hr,203.01,936
+mrro,Total Runoff,1hr,190.99,55
+tas,Near-Surface Air Temperature,sem,177.51,17778
+ta850,Air Temperature,mon,167.66,8871
+sund,Duration of Sunshine,mon,158.80,8756
+rsus,Surface Upwelling Shortwave Radiation,1hr,157.13,55
+snc,Snow Area Fraction,6hr,153.43,2323
+va200,Northward Wind,mon,151.31,6075
+rsutcs,Clear-Sky TOA Outgoing Shortwave Radiation,day,146.51,158
+ua200,Eastward Wind,mon,142.51,6270
+rsut,TOA Outgoing Shortwave Radiation,mon,142.17,4562
+zg250,,6hr,140.27,822
+rlus,Surface Upwelling Longwave Radiation,mon,139.70,7554
+mrros,Surface Runoff,1hr,135.26,55
+rlut,TOA Outgoing Longwave Radiation,mon,132.74,5396
+rlutcs,Clear-Sky TOA Outgoing Longwave Radiation,day,130.95,158
+ta500,Air Temperature,mon,127.85,6820
+ta200,Air Temperature,mon,122.38,6918
+sfcWind,Near-Surface Wind Speed,sem,121.41,8872
+tasmax,Daily Maximum Near-Surface Air Temperature,sem,112.15,13221
+tasmin,Daily Minimum Near-Surface Air Temperature,sem,109.11,11419
+sst,sea surface temperature,6hr,106.44,1674
+snw,Surface Snow Amount,mon,104.02,6727
+snc,Snow Area Fraction,mon,101.80,9796
+rsds,Surface Downwelling Shortwave Radiation,sem,93.31,7304
+ta600,Air Temperature,day,92.54,205
+sund,Duration of Sunshine,3hr,87.18,2187
+ps,Surface Air Pressure,mon,84.33,2530
+sic,Sea Ice Area Fraction,day,81.24,2281
+cin,Convective inhibition (CIN),3hr,76.39,123
+snm,Surface Snow Melt,6hr,74.38,337
+hus400,Specific Humidity,day,74.23,119
+ta400,Air Temperature,day,74.22,154
+hus300,Specific Humidity,day,73.91,119
+hus600,Specific Humidity,day,73.74,119
+zg200,Geopotential Height,mon,73.36,5306
+ta300,Air Temperature,day,71.90,147
+evspsbl,Evaporation,sem,70.96,6197
+va850,Northward Wind,sem,70.82,5265
+mrros,Surface Runoff,mon,70.10,2950
+ua850,Eastward Wind,sem,67.83,5219
+hus100,Specific Humidity,day,65.85,104
+huss,Near-Surface Specific Humidity,sem,64.43,5557
+rsus,Surface Upwelling Shortwave Radiation,sem,64.25,5024
+clt,Total Cloud Fraction,sem,61.38,4872
+rlds,Surface Downwelling Longwave Radiation,sem,56.43,5004
+hurs,Near-Surface Relative Humidity,sem,54.46,4701
+hfls,Surface Upward Latent Heat Flux,1hr,50.90,9
+vas,Northward Near-Surface Wind,sem,48.46,4255
+uas,Eastward Near-Surface Wind,sem,47.95,4209
+hus50m,Specific Humidity,3hr,46.13,29
+pr-fl,Precipitation,day,44.40,1717
+sfcWindmax,Daily Maximum Near-Surface Wind Speed,sem,44.32,4401
+zg500,Geopotential Height,sem,44.01,5264
+psl,Sea Level Pressure,sem,43.71,5310
+snw,Surface Snow Amount,sem,41.40,4694
+prsn,Snowfall Flux,mon,39.35,1057
+ts,Surface Temperature,mon,37.22,934
+prc,Convective Precipitation,mon,36.71,875
+ua400,Eastward Wind,day,33.48,60
+ua600,Eastward Wind,day,33.19,59
+ua300,Eastward Wind,day,32.85,59
+ua100,Eastward Wind,day,32.10,52
+snd,Snow Depth,mon,29.79,5649
+ta100,Air Temperature,day,26.18,31
+va300,Northward Wind,day,23.89,41
+va600,Northward Wind,day,23.38,40
+va400,Northward Wind,day,23.34,40
+va100,Northward Wind,day,22.38,33
+hfss,Surface Upward Sensible Heat Flux,sem,20.71,2003
+hfls,Surface Upward Latent Heat Flux,sem,20.18,1984
+tsmin,Daily Minimum Surface Temperature,day,20.01,275
+va500,Northward Wind,sem,19.36,1867
+hus850,Specific Humidity,sem,19.34,1994
+snm,Surface Snow Melt,mon,19.08,3955
+tsmax,Daily Maximum Surface Temperature,day,18.68,237
+snc,Snow Area Fraction,sem,18.52,3419
+orog,Surface Altitude,fx,17.93,9427
+ua500,Eastward Wind,sem,17.79,1841
+snownc,Accumulated total grid scale snow and ice,day,17.32,168
+rsut,TOA Outgoing Shortwave Radiation,sem,16.39,1551
+rlut,TOA Outgoing Longwave Radiation,sem,14.78,1639
+rlus,Surface Upwelling Longwave Radiation,sem,14.67,1631
+prAdjust,Bias-Adjusted Precipitation,mon,14.63,250
+zg,Geopotential Height,mon,14.12,311
+ta850,Air Temperature,sem,13.97,1903
+rsdt,TOA Incident Shortwave Radiation,sem,13.65,1612
+sftlf,Land Area Fraction,fx,13.56,7395
+ta500,Air Temperature,sem,13.53,1915
+zmla,Height of Boundary Layer,6hr,13.29,66
+ta200,Air Temperature,sem,13.28,1930
+hur500,Relative humidity,day,12.60,103
+prw,Water Vapor Path,mon,12.43,203
+hur850,Relative humidity,day,12.27,112
+sfcWindmax,Daily Maximum Near-Surface Wind Speed,1hr,12.10,55
+mrso,Total Soil Moisture Content,sem,12.09,1697
+apet,Accumulated Morton areal potential evapotranspiration,day,11.97,475
+hur200,Relative humidity,day,11.94,102
+mrro,Total Runoff,sem,11.52,1670
+mrfso,Soil Frozen Water Content,mon,10.57,1229
+zg400,Geopotential Height,day,10.37,20
+ta700,Air Temperature,mon,10.04,215
+tasmax-bc,Daily Maximum Near-Surface Air Temperature,day,10.00,1664
+zg300,Geopotential Height,day,9.99,21
+clwvi,Condensed Water Path,6hr,9.90,213
+tasmints,Daily Minimum Near-Surface Air Temperature,day,9.55,125
+zg100,Geopotential Height,day,9.39,13
+tasmaxts,Daily Maximum Near-Surface Air Temperature,day,9.30,119
+hus700,Specific Humidity,mon,9.24,179
+sic,Sea Ice Area Fraction,mon,9.00,1631
+clivi,Ice Water Path,6hr,8.94,207
+sund,Duration of Sunshine,sem,7.99,1480
+tasmin-bc,Daily Minimum Near-Surface Air Temperature,day,7.86,1407
+alb,Surface albedo,day,7.73,944
+hufs,Upward moisture flux at the surface,day,7.22,58
+ustar,Frictional velocity in similarity theory,day,6.97,58
+prls,Precipitation large scale,day,6.96,62
+sst,sea surface temperature,day,6.78,197
+ta,Air Temperature,mon,6.65,206
+pr-bc,Precipitation,day,6.31,3217
+sic,Sea Ice Area Fraction,sem,5.95,1643
+zg850,Geopotential Height,mon,5.65,115
+va,Northward Wind,mon,5.64,101
+aclwdnt,Accumulated downwelling LW flux at top,day,5.58,66
+hus,Specific Humidity,mon,5.41,104
+zmla,Height of Boundary Layer,mon,4.75,135
+snd,Snow Depth,sem,4.69,1810
+hus500,Specific Humidity,mon,4.62,91
+clice200,Ice mixing ratio,day,4.51,59
+clfr200,Cloud fraction,day,4.09,61
+ua,Eastward Wind,mon,4.08,101
+ta600,Air Temperature,mon,3.95,89
+ta300,Air Temperature,mon,3.87,79
+ta100,Air Temperature,mon,3.82,77
+ps,Surface Air Pressure,6hr,3.80,70
+ta925,Air Temperature,mon,3.79,78
+tas,Near-Surface Air Temperature,6hr,3.78,61
+ta400,Air Temperature,mon,3.78,76
+va700,Northward Wind,mon,3.74,64
+clh,High Level Cloud Fraction,mon,3.72,53
+pr,Precipitation,6hr,3.66,55
+ua700,Eastward Wind,mon,3.59,63
+hus200,Specific Humidity,mon,3.44,81
+hus925,Specific Humidity,mon,3.31,83
+tauv,Surface Downward Northward Wind Stress,mon,3.24,45
+tauu,Surface Downward Eastward Wind Stress,mon,3.18,42
+wa925,,3hr,3.10,2
+cll,Low Level Cloud Fraction,mon,2.72,38
+clice500,Ice mixing ratio,day,2.64,58
+wap850,Vertical Velocity In Pressure Coordinates,mon,2.55,58
+hus600,Specific Humidity,mon,2.51,68
+zg700,Geopotential Height,mon,2.47,48
+clfr500,Cloud fraction,day,2.42,58
+mrfso,Soil Frozen Water Content,6hr,2.42,172
+hus300,Specific Humidity,mon,2.31,61
+hus100,Specific Humidity,mon,2.21,66
+va200,Northward Wind,sem,2.19,754
+mross,Subsurface runoff,day,2.16,60
+mrros,Surface Runoff,6hr,2.13,248
+clfr850,Cloud fraction,day,2.11,59
+hus200,Specific Humidity,3hr,2.08,2
+ua925,Eastward Wind,mon,2.06,44
+tasminAdjust,Bias-Adjusted Daily Minimum Near-Surface Air Temperature,mon,2.06,49
+ua400,Eastward Wind,mon,2.04,48
+hur850,Relative humidity,3hr,1.99,1
+ua200,Eastward Wind,sem,1.95,742
+hur850,Relative humidity,mon,1.91,28
+hur700,Relative humidity,mon,1.91,28
+va400,Northward Wind,mon,1.91,38
+ua300,Eastward Wind,mon,1.82,45
+ua100,Eastward Wind,mon,1.80,44
+clwmr850,Cloud water content,day,1.79,58
+va600,Northward Wind,mon,1.76,35
+u200,Zonal wind at 200hPa,day,1.76,10
+ua600,Eastward Wind,mon,1.72,40
+hur200,Relative humidity,mon,1.69,28
+hur500,Relative humidity,mon,1.68,25
+areacella,Atmosphere Grid-Cell Area,fx,1.68,523
+tasmaxAdjust,Bias-Adjusted Daily Maximum Near-Surface Air Temperature,mon,1.64,39
+hus400,Specific Humidity,mon,1.59,48
+va925,Northward Wind,mon,1.56,33
+va300,Northward Wind,mon,1.52,32
+va100,Northward Wind,mon,1.46,35
+wap700,Vertical Velocity In Pressure Coordinates,mon,1.43,16
+wap500,Vertical Velocity In Pressure Coordinates,mon,1.41,16
+hur700,Relative humidity,day,1.41,20
+tauu,Surface Downward Eastward Wind Stress,6hr,1.37,22
+rsdscs,Clear-Sky Surface Downwelling Shortwave Radiation,mon,1.37,25
+zg200,Geopotential Height,sem,1.36,744
+tauv,Surface Downward Northward Wind Stress,6hr,1.36,22
+hur1000,Relative humidity,day,1.24,12
+sst,sea surface temperature,mon,1.18,1110
+mrros,Surface Runoff,sem,1.18,204
+zg1000,Geopotential Height,6hr,1.17,2
+zg925,Geopotential Height,mon,1.13,21
+va975,Northward Wind,day,1.12,12
+clice850,Ice mixing ratio,day,1.11,58
+zg400,Geopotential Height,mon,0.94,18
+zg600,Geopotential Height,mon,0.90,19
+va1000,Northward Wind,day,0.88,8
+va875,Northward Wind,day,0.87,8
+va900,Northward Wind,day,0.87,8
+va950,Northward Wind,day,0.87,8
+ua1000,Eastward Wind,day,0.87,8
+ua975,Eastward Wind,day,0.86,8
+ua950,Eastward Wind,day,0.86,8
+ua900,Eastward Wind,day,0.85,8
+ua875,Eastward Wind,day,0.85,8
+mrsofc,Capacity of Soil to Store Water,fx,0.84,152
+hur400,Relative humidity,day,0.83,8
+hur300,Relative humidity,day,0.83,8
+hur600,Relative humidity,day,0.83,8
+rsdscs,Clear-Sky Surface Downwelling Shortwave Radiation,day,0.82,1
+hur875,Relative humidity,day,0.81,8
+hus875,Specific Humidity,day,0.81,8
+hur900,Relative humidity,day,0.80,8
+hus900,Specific Humidity,day,0.80,8
+hus950,Specific Humidity,day,0.78,8
+zg1000,Geopotential Height,day,0.78,8
+hur950,Relative humidity,day,0.78,8
+hur925,Relative humidity,day,0.78,8
+hus975,Specific Humidity,day,0.77,8
+hur975,Relative humidity,day,0.76,8
+hus1000,Specific Humidity,day,0.76,8
+zg900,Geopotential Height,day,0.76,16
+zg300,Geopotential Height,mon,0.75,16
+hfss,Surface Upward Sensible Heat Flux,1hr,0.75,4
+zg100,Geopotential Height,mon,0.74,16
+zg975,Geopotential Height,day,0.70,8
+zg950,Geopotential Height,day,0.66,8
+hur925,Relative humidity,mon,0.65,11
+ps,Surface Air Pressure,sem,0.64,31
+zg875,Geopotential Height,day,0.63,9
+ta1000,Air Temperature,day,0.60,8
+ta975,Air Temperature,day,0.60,8
+ta950,Air Temperature,day,0.59,8
+ta900,Air Temperature,day,0.59,8
+ta875,Air Temperature,day,0.59,8
+snm,Surface Snow Melt,sem,0.59,741
+mrfso,Soil Frozen Water Content,sem,0.57,649
+zg600,Geopotential Height,day,0.55,8
+clice300,Ice mixing ratio,day,0.53,8
+clfr300,Cloud fraction,day,0.46,8
+tasAdjust,Bias-Adjusted Near-Surface Air Temperature,mon,0.43,10
+u850,Zonal wind at 850hPa,day,0.43,3
+clfr925,Cloud fraction,day,0.42,8
+clfr950,Cloud fraction,day,0.42,8
+v200,Meridional wind at 200hPa,day,0.42,8
+clwmr925,Cloud water content,day,0.42,8
+clwmr950,Cloud water content,day,0.42,8
+clice400,Ice mixing ratio,day,0.41,8
+rsuscs,Clear-Sky Surface Upwelling Shortwave Radiation,mon,0.41,6
+rsutcs,Clear-Sky TOA Outgoing Shortwave Radiation,mon,0.40,6
+clfr975,Cloud fraction,day,0.39,8
+clwmr975,Cloud water content,day,0.38,8
+clfr400,Cloud fraction,day,0.37,8
+rlutcs,Clear-Sky TOA Outgoing Longwave Radiation,mon,0.36,6
+clfr900,Cloud fraction,day,0.35,8
+clwmr1000,Cloud water content,day,0.35,8
+clfr1000,Cloud fraction,day,0.35,8
+clwmr900,Cloud water content,day,0.34,8
+clfr875,Cloud fraction,day,0.29,8
+prsn,Snowfall Flux,sem,0.28,25
+clwmr875,Cloud water content,day,0.27,8
+v500,Meridional wind at 500hPa,day,0.26,3
+sftgif,Fraction of Grid Cell Covered with Glacier,fx,0.26,68
+rootd,Maximum Root Depth,fx,0.25,22
+clfr600,Cloud fraction,day,0.24,8
+hur200,Relative humidity,3hr,0.24,3
+clice600,Ice mixing ratio,day,0.23,8
+prc,Convective Precipitation,sem,0.22,10
+u500,Zonal wind at 500hPa,day,0.22,3
+v850,Meridional wind at 850hPa,day,0.21,2
+clfr700,Cloud fraction,day,0.21,8
+ts,Surface Temperature,sem,0.20,10
+clice700,Ice mixing ratio,day,0.19,9
+clwmr500,Cloud water content,day,0.17,58
+clh,High Level Cloud Fraction,6hr,0.16,3
+ta200,Air Temperature,3hr,0.16,1
+ta400,Air Temperature,sem,0.15,8
+ta300,Air Temperature,sem,0.15,8
+ta925,Air Temperature,sem,0.15,8
+ta600,Air Temperature,sem,0.14,8
+ta700,Air Temperature,sem,0.14,8
+clice875,Ice mixing ratio,day,0.13,8
+clice900,Ice mixing ratio,day,0.12,8
+tasmax-bc,Daily Maximum Near-Surface Air Temperature,mon,0.10,447
+clwmr700,Cloud water content,day,0.10,8
+clice925,Ice mixing ratio,day,0.10,8
+tasmin-bc,Daily Minimum Near-Surface Air Temperature,mon,0.09,391
+clice950,Ice mixing ratio,day,0.08,8
+clwmr600,Cloud water content,day,0.07,8
+clm,Mid Level Cloud Fraction,6hr,0.06,1
+clice975,Ice mixing ratio,day,0.05,8
+ta100,Air Temperature,sem,0.05,7
+cltc100,Convective Cloud Fraction,mon,0.04,1
+cdnctop,Cloud Droplet Number Concentration At Cloud Top,mon,0.04,1
+clice1000,Ice mixing ratio,day,0.04,8
+clwmr200,Cloud water content,day,0.03,60
+va1000,Northward Wind,3hr,0.01,1
+va100m,Northward wind,mon,0.01,5
+cape,Convective available potential energy (CAPE),mon,0.01,1
+sfcWindmaxmax,Seasonal Maximum Daily Maximum Near-Surface Wind Speed,mon,0.00,1
+clwmr400,Cloud water content,day,0.00,8
+clwmr300,Cloud water content,day,0.00,8
+apet,Accumulated Morton areal potential evapotranspiration,mon,0.00,4
+mrso,Total Soil Moisture Content,1hr,0.00,4
+apet,Accumulated Morton areal potential evapotranspiration,sem,0.00,1
