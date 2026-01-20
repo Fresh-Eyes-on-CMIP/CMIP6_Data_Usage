@@ -3,3 +3,4 @@ paths.yml
 .ipynb_checkpoints/citation-checkpoint.ipynb
 .ipynb_checkpoints/*
 plots/.ipynb_checkpoints/*
+archive/.ipynb_checkpoints/copernicus-checkpoint.ipynb
