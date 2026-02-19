@@ -4,3 +4,4 @@ paths.yml
 .ipynb_checkpoints/*
 plots/.ipynb_checkpoints/*
 archive/.ipynb_checkpoints/copernicus-checkpoint.ipynb
+data/ESGF/.ipynb_checkpoints/CMIP6downloadsByCountry_13_01_2025-checkpoint.csv
