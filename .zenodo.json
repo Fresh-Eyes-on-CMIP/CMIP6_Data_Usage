@@ -1,0 +1,27 @@
+{
+    "creators": [
+        {
+          "name": "Lavoie, Juliette",
+          "orcid": "0000-0002-4708-5182"
+        },
+        {
+          "name": "Ziegler, Elisa"
+        },
+        {
+          "name": "Carreric, Aude",
+          "orcid": "0000-0002-6385-5327"
+        },
+        {
+            "name": "Duffey, Alistair"
+        },
+        {
+            "name": "Chellini, Giovanni",
+            "orcid":"0000-0002-7303-0468"
+        }
+    ],
+
+    "license": "Apache-2.0",
+    "upload_type": "software",
+    "access_right": "open",
+    "title": "CMIP6 Data Usage"
+}
